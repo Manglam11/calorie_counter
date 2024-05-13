@@ -1,1 +1,1 @@
-# calorie_counter
+![Preview](./ss.png)
